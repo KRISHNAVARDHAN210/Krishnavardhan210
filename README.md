@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello, I'm Krishna Vardhan! 👋
+🎓 MS in Computer Engineering(Spec : Networking) @ SDSU
+📫 How to reach me: knagaraja3869@sdsu.edu
+🌱 I’m currently learning FastAPI ,NextJs, MySQL and MongoDB 
+
+
 
 <!--
 **KRISHNAVARDHAN210/Krishnavardhan210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
